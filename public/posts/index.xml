@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ochego&#39;s Journal</title>
+    <link>https://josephochego.org/posts/</link>
+    <description>Recent content in Posts on Ochego&#39;s Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 29 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="https://josephochego.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://josephochego.org/posts/my-first-post/</link>
+      <pubDate>Mon, 29 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>https://josephochego.org/posts/my-first-post/</guid>
+      
+      <description>Introduction Hello guys. This is me writing my first post and excited for blogs to come. Be sure to leave a comment on what you&amp;rsquo;d like to see.
+Bye 👋</description>
+      
+    </item>
+    
+  </channel>
+</rss>
